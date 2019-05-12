@@ -2,4 +2,7 @@ Longitude,Latitude,BIN(Building Information Number),Zip Code,street,Borough
 -73.957771,40.673447,3029288,11238,sterling,Brooklyn
 -73.979975,40.779623," 
 1030037",1145,west 74th street,Manhattan
--73.994506,40.769802,4023450,,98th street,Queens
+-73.994506,40.769802,4023450,11369,98th street,Queens
+-73.919382,40.744436,4001896,11104,Hunters Point,Queens
+-73.946786,40.818629,1060638,10030,Edgecombe avenue,Manhattan
+-73.994506,40.71837,1005627,10002,Grand Street,Manhattan
