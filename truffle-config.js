@@ -48,8 +48,27 @@ module.exports = {
   development: {
     host: "127.0.0.1",     // Localhost (default: none)
     port: 22000,            // Standard Ethereum port (default: none)
-    network_id: "10",       // Any network (default: none)
+    network_id: "10",       // Any network (default: none)i
+    gasPrice: 0,
+    gas: 4500000, 
+    type: "quorum" // needed for Truffle to support Quorum
     },
+  nodefour:  {
+      host: "127.0.0.1",
+      port: 22003,
+      network_id: "*", // Match any network id
+      gasPrice: 0,
+      gas: 4500000,
+      type: "quorum" // needed for Truffle to support Quorum
+  },
+  nodeseven:  {
+      host: "127.0.0.1",
+      port: 22006,
+      network_id: "*", // Match any network id
+      gasPrice: 0,
+      gas: 4500000,
+      type: "quorum" // needed for Truffle to support Quorum
+   }  
 
     // Another network with more advanced options...
     // advanced: {
