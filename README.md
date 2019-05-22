@@ -1,4 +1,4 @@
-NYC GOVChain
+GOVChain
 This is the entry for the Consensus Hackathon dated May 11 - 12, 2019
 
 Problem: Efficiency and Immutability of Real Estate Documents such as Latitude/Longtitude and BIN (Building Information Number), Street, and Zip code
